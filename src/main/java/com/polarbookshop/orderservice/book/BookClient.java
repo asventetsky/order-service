@@ -13,6 +13,7 @@ public class BookClient {
 
     private static final String BOOKS_ROOT_API = "/books/";
     private final WebClient webClient;
+
     public BookClient(WebClient webClient) {
         this.webClient = webClient;
     }
