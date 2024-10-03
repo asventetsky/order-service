@@ -1,6 +1,6 @@
 package com.polarbookshop.orderservice.order.web;
 
-import com.polarbookshop.orderservice.SecurityConfig;
+import com.polarbookshop.orderservice.config.SecurityConfig;
 import com.polarbookshop.orderservice.order.domain.Order;
 import com.polarbookshop.orderservice.order.domain.OrderService;
 import com.polarbookshop.orderservice.order.domain.OrderStatus;
